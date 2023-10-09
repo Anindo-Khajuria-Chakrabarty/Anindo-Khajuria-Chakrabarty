@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Anindo-Khajuria-Chakrabarty
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python (beginner)
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in coding(somewhat)
+- 🌱 I’m currently learning python
 - 📫 How to reach me anindokcty@gmail.com
 
 <!---
